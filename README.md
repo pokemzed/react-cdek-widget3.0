@@ -19,7 +19,7 @@
         <!--    Вставляем скрипт сдека в HEAD-->
         <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@cdek-it/widget@3" charset="utf-8"></script>
 
-2. Создаем widget как useRefё
+2. Создаем widget как useRef
 
         const widget = useRef()
 
